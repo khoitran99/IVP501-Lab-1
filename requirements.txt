@@ -1,6 +1,2 @@
 # No external packages required
 # Tkinter is included with Python standard library 
-
-# Required packages
-opencv-python>=4.5.0
-numpy>=1.20.0 
